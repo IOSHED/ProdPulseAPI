@@ -1,0 +1,3 @@
+[tool.aerich]
+tortoise_orm = "src.infra.database.tortoise.TORTOISE_ORM"
+location = "./migrations"

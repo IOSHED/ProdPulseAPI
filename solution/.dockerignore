@@ -1,5 +1,23 @@
+
+###############
+# Dockerfiles #
+###############
 .dockerignore
 Dockerfile
+
+############
+# Solution #
+############
 README.md
-.venv/
+
+##########
+# Python #
+##########
+.ruff_cache
+venv/
 __pycache__/
+
+###########
+# Idea    #
+###########
+.idea/
